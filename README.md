@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center"><a href="https://boyter.org/">Blog</a> • <a href="https://twitter.com/boyter">Twitter</a> • <a href="https://www.linkedin.com/in/ben-boyter-055a2119/">LinkedIn</a> • <a href="https://boyter.org/about/">Contact/About</a></p>
 
 <!--
