@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 | [searchcode server](https://searchcodeserver.com/) <br/> Index your source code allowing you to search over it quickly, filtering down by repositories, languages and file owners to find what you were looking for. |
 | [lc](https://github.com/boyter/lc) <br/> A command line tool that recursively iterates over a supplied directory or file attempting to identify what software license each file is under. |
 | [cs](https://github.com/boyter/cs) <br/> A command line tool codespelunker. |
+| [dcd](https://github.com/boyter/dcd) <br/> A command line tool to identify duplicate code. |
 
 ## Books
 
