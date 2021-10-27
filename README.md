@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | Project |
 |:------- |
-| [searchcode](https://searchcode.com) <br/> Search 20 billion lines of code from 11 million projects |
+| [searchcode](https://searchcode.com) <br/> Search 75 billion lines of code from 40 million projects |
 | [scc](https://github.com/boyter/scc/) <br/> A tool similar to cloc, sloccount and tokei. For counting physical the lines of code, blank lines, comment lines, and physical lines of source code in many programming languages. |
 | [searchcode server](https://searchcodeserver.com/) <br/> Index your source code allowing you to search over it quickly, filtering down by repositories, languages and file owners to find what you were looking for. |
 | [lc](https://github.com/boyter/lc) <br/> A command line tool that recursively iterates over a supplied directory or file attempting to identify what software license each file is under. |
