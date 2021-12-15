@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 | [lc](https://github.com/boyter/lc) <br/> A command line tool that recursively iterates over a supplied directory or file attempting to identify what software license each file is under. |
 | [cs](https://github.com/boyter/cs) <br/> A command line tool codespelunker. |
 | [dcd](https://github.com/boyter/dcd) <br/> A command line tool to identify duplicate code. |
+| [hashit](https://github.com/boyter/hashit) <br/> When you want to find the hash or hashes of a file quickly, cross platform using a single command. |
 
 ## Books
 
